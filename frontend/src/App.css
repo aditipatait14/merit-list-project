@@ -1,0 +1,15 @@
+table.table-hover tbody tr.rank-gold td,
+table.table-hover tbody tr.rank-gold th {
+  background-color: #FFF9E6 !important; 
+}
+
+table.table-hover tbody tr.rank-silver td,
+table.table-hover tbody tr.rank-silver th {
+  background-color: #F5F5F5 !important; 
+}
+
+table.table-hover tbody tr.rank-bronze td,
+table.table-hover tbody tr.rank-bronze th {
+  background-color: #FFEDE0 !important; 
+}
+
